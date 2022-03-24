@@ -1,0 +1,23 @@
+[33mcommit be861933634377279b207ad453ee0fd578635ff6[m[33m ([m[1;36mHEAD -> [m[1;32mlogin-page[m[33m)[m
+Author: Rabi Shankar Prasad <rabiprasad607@gmail.com>
+Date:   Sat Mar 19 21:19:29 2022 +0530
+
+    styled-components and react-router-dom installed
+
+[33mcommit b8568d1e5c25eaaffae2ea04043ef0c474dd338c[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Rabi Shankar Prasad <rabiprasad607@gmail.com>
+Date:   Sat Mar 19 21:05:29 2022 +0530
+
+    global style added
+
+[33mcommit e363c27095873c66b15ba471255324b6b72b6316[m
+Author: Rabi Shankar Prasad <rabiprasad607@gmail.com>
+Date:   Sat Mar 19 20:46:49 2022 +0530
+
+    cleaned default repository
+
+[33mcommit 2c8d94616d433887c9f8695e50c445ebcd1afa3c[m
+Author: Rabi Shankar Prasad <rabiprasad607@gmail.com>
+Date:   Thu Mar 17 23:42:39 2022 +0530
+
+    Initialize project using Create React App
