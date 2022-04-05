@@ -12,6 +12,7 @@
   --btn-background-color-1-light: #0483ee;
 
   --text-color-1: hsla(0, 0%. 93.3%, 1);
+  --text-color-navbar-1: #f9f9f9;
 }
 html {
   scroll-behavior: smooth;
